@@ -17,7 +17,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("https://wallpapercave.com/wp/wp6088074.png");
      opacity: 0.2;
      top: 0;
      left: 0;
@@ -26,10 +26,11 @@ body {
      position: absolute;
      z-index: -1;	
 }
-
+.project p{font-variant: small-caps;
+}
 .project{
      margin-left: 20px;
-     background-color: #deebf7;
+     background-color: #BED4F3;
      padding: 20px;
      width: 800px;
 }
