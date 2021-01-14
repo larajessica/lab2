@@ -29,8 +29,5 @@ body {
 .project p{font-variant: small-caps;
 }
 .project{
-     margin-left: 20px;
      background-color: #BED4F3;
-     padding: 20px;
-     width: 800px;
 }
